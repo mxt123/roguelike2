@@ -1,0 +1,12 @@
+map gen
+
+http://mewo2.com/notes/terrain/
+http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/demo.html
+
+random generators
+
+https://sites.google.com/a/jadetiger.org/randomtables/random-generators
+
+city generation
+
+https://josauder.github.io/procedural_city_generation/
