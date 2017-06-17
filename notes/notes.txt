@@ -20,3 +20,20 @@ tvtropes
 
 quests
 big bad
+
+books
+
+the hero with a thousand faces
+the seven basic plots
+
+Code stuff
+
+https://github.com/spring-guides/gs-relational-data-access
+
+rules stuff
+
+http://www.d20pfsrd.com/equipment/weapons/firearms/
+
+http://violentmediarpg.blogspot.co.uk/
+
+https://www.dungeoncontest.com/opdc-2015
