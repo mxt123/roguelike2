@@ -11,6 +11,13 @@ city generation
 
 https://josauder.github.io/procedural_city_generation/
 
+
+terrain blending
+
+https://www.javacodegeeks.com/2014/08/game-ai-an-introduction-to-behaviour-trees.html
+
+http://archive.gamedev.net/archive/reference/articles/article934.html
+
 Notes
 
 7 plots
